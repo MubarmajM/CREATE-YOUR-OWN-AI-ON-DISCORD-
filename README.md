@@ -26,6 +26,6 @@ DONE!
 
 
 Now you can add datas to 'ChatbotData.json' for train yout bot! Run your "ChatbotServer.py" project to activate or update your robot
-
+REPLACE "YOUR-YOKEN-HERE" whit your TOKEN (in ChatbotServer.py file code)
 
 
